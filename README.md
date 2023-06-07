@@ -80,10 +80,11 @@ https://trello.com/b/hUA2Fhmv/projeto-integrador
 
 
 #### 📑 Trabalho Concluido: 
-✅ 100% 
-- 
+#### ✅ 100% 
 
-### ❤ Projeto realizado pelo grupo da Turma 01/C da Faculdade de Analise e Desenvolvimento de Sistemas - UNINOVE
+______________________________________
+
+#### ❤ Projeto realizado pelo grupo da Turma 01/C da Faculdade de Analise e Desenvolvimento de Sistemas - UNINOVE
 Projeto Integrador - 2023
 
 #### 😎 Membros do Grupo:
