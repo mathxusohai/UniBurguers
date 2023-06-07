@@ -93,6 +93,7 @@ Projeto Integrador - 2023
 #### - Matheus M.
 #### - Igor B.
 #### - Jady.
+#### - Felipe A. 🐶
 
 
 
