@@ -50,7 +50,6 @@ ____________________
 ____________________
 
 - [x] [Trello](https://trello.com/)
-- [x] [Figma](https://www.figma.com/)
 - [x] [Visual Studio Code](https://code.visualstudio.com/)
 - [x] [ReactJS](https://reactjs.org/)
 - [x] [Netlify](https://www.apachefriends.org/pt_br/dowload.html)
