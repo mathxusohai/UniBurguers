@@ -1,6 +1,6 @@
 # UniBurguer's 🍔
 
-[Aplicação rodando no NETLIFY]([https://uniburguersv1.netlify.app/index.html])
+[Aplicação rodando no NETLIFY](https://uniburguersv1.netlify.app/index.html)
 ____________________
 
 [GitHub Front & Back- End](https://github.com/mathxusohai/UniBurguers.git)
