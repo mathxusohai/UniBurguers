@@ -87,12 +87,16 @@ ______________________________________
 Projeto Integrador - 2023
 
 #### 😎 Membros do Grupo:
-#### - Gabriel R.
-#### - Bruno F.
 #### - Matheus M.
-#### - Igor B.
-#### - Jady.
+#### - Jady F.
 #### - Felipe A. 🐶
+#### - Eveny G.
+#### - Klayver M.
+#### - Kauan N.
+#### - Guilherme M.
+#### - Gustavo B.
+#### - Gilmar R.
+#### - Luiz Gustavo
 
 
 
