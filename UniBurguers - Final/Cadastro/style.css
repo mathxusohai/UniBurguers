@@ -1,0 +1,134 @@
+body{
+    font-family: 'Lato', Helvetica, Arial;
+    font-size: 1em;
+    background-color: #221a1a;
+    box-sizing: border-box;
+    color: #020000;
+    margin:0;
+    background-color: black;
+    max-width: 100%; 
+}
+.box{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    transform: translate(-49%,-50%);
+    background-color: #1f0f00;
+    padding: 25px;
+    border-radius: 80px 0 70px 0;
+    width: 480px;
+    margin: 20px 0 auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%; 
+}
+.container img {
+    width:80%;
+    height: 30vh;
+    align-items: center;
+    margin:0 auto;
+    border-radius: 100px;
+    max-width: 100%; 
+}
+legend{
+    border: 1px 1px 1px #000000;
+    padding: 5px;
+    text-align: center;
+    color: black;
+    font-weight: 700;
+    background-color: #ffc107;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 100%; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.inputBox{
+    position: relative;
+}
+.inputUser{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #221a1a;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+    letter-spacing: 2px;
+}
+.labelInput{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+    transition: .8s;
+}
+.inputUser:focus ~ .labelInput,
+.inputUser:valid ~ .labelInput{
+    top: -20px;
+    font-size: 14px;
+    color: white;
+}
+#data_nascimento{
+    border: none;
+    padding: 9px 9px 9px;
+    border-radius: 14px;
+    outline: none;
+    font-size: 15px;
+}
+#submit{
+    background-color: #ffc107;
+    width: 80%;
+    border: none;
+    padding: 15px;
+    border-radius: 18px 5px 6px 7px;
+    color: #000;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 17px;
+    font-weight: 800;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#submit:hover{
+    background-color: green;
+}
+
+.voltar-Menu{
+    margin: 90px 10px 15px 15px; 
+    background-color:#ffc107;
+    color: #000;
+    padding: 17px 30px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 18px 5px 6px 7px;
+    height: 10px;
+    cursor: pointer;
+    align-items: center;
+    margin: 0 auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.voltar-Menu:hover{
+    background-color: rgb(0, 255, 55);
+}
+
+
+@media screen and (max-width: 600px) {
+    /* Estilos para telas menores que 600 pixels de largura */
+    .box {
+        width: 100%;
+    }
+
+    .voltar-Menu {
+        margin: 10px; /* Ajuste conforme necessário */
+    }
+    .legend{
+        width: 100%;
+    }
+}
