@@ -55,8 +55,6 @@ ____________________
 - [x] [Netlify](https://www.apachefriends.org/pt_br/dowload.html)
 - [x] [Bootstrap](https://getbootstrap.com/) 
 
-#### 📋 Trello
-https://trello.com/b/hUA2Fhmv/projeto-integrador
 
 
 
