@@ -81,7 +81,7 @@ ____________________
 
 ______________________________________
 
-#### ❤ Projeto realizado pelo grupo da Turma 01/C da Faculdade de Analise e Desenvolvimento de Sistemas - UNINOVE
+#### ❤ Projeto realizado pelo grupo da Turma 02/C da Faculdade de Analise e Desenvolvimento de Sistemas - UNINOVE
 Projeto Integrador - 2023
 
 #### 😎 Membros do Grupo:
